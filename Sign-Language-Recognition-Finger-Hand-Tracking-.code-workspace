@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/archive/asl_alphabet_test"
+		},
+		{
+			"path": "../../../Downloads/archive/asl_alphabet_train"
+		}
+	],
+	"settings": {}
+}
